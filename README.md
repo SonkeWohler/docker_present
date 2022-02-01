@@ -17,6 +17,6 @@ git clone --recursive git@github.com:SonkeWohler/docker_present.git
 
 Then you should be able to run via `docker-compose up`.
 
-The output will be at [`localhost:8080`](localhost:8080).
+The output will be at [`localhost:8080`](http://localhost:8080).
 
 You can inspect the backend output at [`127.0.0.1:5000/hello`](http://127.0.0.1:5000/hello).
