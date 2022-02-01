@@ -1,0 +1,9 @@
+[submodule "docker_yaml"]
+	path = docker_yaml
+	url = git@github.com:SonkeWohler/docker_yaml.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:SonkeWohler/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:SonkeWohler/backend.git
